@@ -1,6 +1,7 @@
 # zz101111 - fork from gatsby-starter-try-ghost
 [![Released under MIT license.](https://badgen.net/github/license/micromatch/micromatch)](https://github.com/styxlab/gatsby-starter-try-ghost/blob/master/LICENSE)
 [![gatsby-starter-try-ghost npm package version.](https://badgen.net/npm/v/gatsby-starter-try-ghost)](https://www.npmjs.org/package/gatsby-starter-try-ghost)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02de938a-7c1b-4388-8df7-414d1d11f061/deploy-status)](https://app.netlify.com/sites/zen-chandrasekhar-0e30a0/deploys)
 
 A Gatsby starter for creating blogs from headless [Ghost CMS](https://ghost.org/changelog/jamstack/). 
 
