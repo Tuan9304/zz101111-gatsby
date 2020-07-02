@@ -6608,14 +6608,6 @@ gatsby-theme-ghost-dark-mode@^1.5.1:
   dependencies:
     "@babel/runtime" "^7.10.3"
 
-gatsby-theme-ghost-members@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-ghost-members/-/gatsby-theme-ghost-members-1.3.1.tgz#7a833f4ac214145c93f80391ea908e9ddda7802d"
-  integrity sha512-RaY0MlzUtZBK7hicTodZPTs1vWvMGofML7Dh3+ygm10hqywgeEOoFqtRQWIMFKvfy1ruzb6qvpN10hxiLQ0YpA==
-  dependencies:
-    "@babel/runtime" "^7.10.3"
-    styled-components "^5.1.1"
-
 gatsby-theme-ghost-toc@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/gatsby-theme-ghost-toc/-/gatsby-theme-ghost-toc-1.3.1.tgz#4f9010a1874c5d5b76a0de831291efc3fe21aef2"
