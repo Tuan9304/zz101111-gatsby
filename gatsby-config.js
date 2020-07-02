@@ -74,7 +74,7 @@ module.exports = {
                 defaultModeDark: false,
                 // If you want the defaultModeDark setting to take precedence
                 // over the mode reported from OS, set this to true (default: false)
-                overrideOS: false,
+                overrideOS: true,
             },
         },
         {
@@ -111,6 +111,14 @@ module.exports = {
             options: {
                 // Number of shown headline levels (optional, default: 2)
                 maxDepth: 2,
+            },
+        },
+        {
+            resolve: `gatsby-theme-ghost-commento`,
+            options: {
+                // The url pointing to your self-hosted commento installation
+                // You can remove the option, if you use the commento.io managed service
+                url: `https://zz101111-commento.herokuapp.com`,
             },
         },
         // this (optional) plugin enables Progressive Web App + Offline functionality
