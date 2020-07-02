@@ -1,9 +1,6 @@
 [build]
-  command = "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages"
+  command = "NODE_ENV=production gatsby build"
   publish = "public"
 
 [template]
   incoming-hooks = ["Ghost"]
-
-[[plugins]]
-  package = "netlify-plugin-gatsby-cache"
