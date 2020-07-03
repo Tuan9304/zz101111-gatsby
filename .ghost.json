@@ -1,10 +1,10 @@
 {
     "development": {
         "apiUrl": "https://zz101111-ghost.herokuapp.com",
-        "contentApiKey": "92fad99e62629cdd81bb05e83f"
+        "contentApiKey": "79e74dc63b322a1d81f829e22d"
     },
     "production": {
         "apiUrl": "https://zz101111-ghost.herokuapp.com",
-        "contentApiKey": "92fad99e62629cdd81bb05e83f"
+        "contentApiKey": "79e74dc63b322a1d81f829e22d"
     }
 }
