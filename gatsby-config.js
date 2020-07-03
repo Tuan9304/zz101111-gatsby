@@ -78,6 +78,9 @@ module.exports = {
             },
         },
         {
+            resolve: `gatsby-plugin-sharp`,
+        },
+        {
             resolve: `gatsby-transformer-rehype`,
             options: {
                 filter: node => (
