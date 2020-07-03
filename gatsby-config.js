@@ -121,6 +121,17 @@ module.exports = {
                 url: `https://zz101111-commento.herokuapp.com`,
             },
         },
+        {
+            resolve: "gatsby-plugin-ackee-tracker",
+            options: {
+              domainId: 'cc8ecfa0-07b3-4eef-997f-438f899290ca',
+              server: 'https://zz101111-ackee.herokuapp.com',
+              // Disabled analytic tracking when running localy
+              ignoreLocalhost: true,
+              // If enabled it will collect info on OS, BrowserInfo, Device  & ScreenSize
+              detailed: false
+            },
+        },
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // This plugin is currently causing issues: https://github.com/gatsbyjs/gatsby/issues/25360
         //`gatsby-plugin-offline`,
