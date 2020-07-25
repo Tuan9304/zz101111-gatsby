@@ -32,7 +32,7 @@
     "gatsby-plugin-ackee-tracker": "^1.4.0",
     "gatsby-plugin-netlify": "^2.3.11",
     "gatsby-plugin-preact": "^4.0.9",
-    "gatsby-plugin-sharp": "^2.6.17",
+    "gatsby-plugin-sharp": "^2.6.22",
     "gatsby-rehype-ghost-links": "^1.5.1",
     "gatsby-rehype-inline-images": "^1.6.0",
     "gatsby-rehype-prismjs": "^1.1.2",
