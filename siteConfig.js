@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://zz101111.ga`,
+    siteUrl: `https://cdltw.ga`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
