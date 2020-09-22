@@ -10,10 +10,10 @@ module.exports = {
     postsPerPage: 3,
 
     // This allows an alternative site title for meta data for pages.
-    // siteTitleMeta: `CDLTW`,
+    siteTitleMeta: `CDLTW`,
 
     // This allows an site description for meta data for pages.
-    // siteDescriptionMeta: `Trang web chính thức của Cục Địa lý Trung Ương - trực thuộc THPT Chuyên Lê Hồng Phong`,
+    siteDescriptionMeta: `Trang web chính thức của Cục Địa lý Trung Ương - trực thuộc THPT Chuyên Lê Hồng Phong`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
     shortTitle: `CDLTW`,
