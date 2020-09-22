@@ -114,14 +114,6 @@ module.exports = {
             },
         },
         {
-            resolve: `gatsby-theme-ghost-commento`,
-            options: {
-                // The url pointing to your self-hosted commento installation
-                // You can remove the option, if you use the commento.io managed service
-                url: `https://zz101111-commento.herokuapp.com`,
-            },
-        },
-        {
             resolve: "gatsby-plugin-ackee-tracker",
             options: {
               domainId: 'cc8ecfa0-07b3-4eef-997f-438f899290ca',
