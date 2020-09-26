@@ -121,7 +121,7 @@ module.exports = {
               // Disabled analytic tracking when running localy
               ignoreLocalhost: true,
               // If enabled it will collect info on OS, BrowserInfo, Device  & ScreenSize
-              detailed: false
+              detailed: true
             },
         },
         // this (optional) plugin enables Progressive Web App + Offline functionality
