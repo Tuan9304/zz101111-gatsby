@@ -100,7 +100,7 @@ module.exports = {
                             // all images larger are scaled down to maxWidth (default: maxWidth = imageWidth)
                             // maxWidth: 2000,
                             withWebp: true,
-                            useImageCache: true,
+                            useImageCache: false,
                         }
                     },
                 ],
